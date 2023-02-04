@@ -1,12 +1,20 @@
 # Clone-Aurum-Project - Projeto em andamento
 Projeto sendo desenvolvido em equipe com o objetivo institucional.
 
-## [Designer Experimental](https://github.com/designexperimental) 
+# Habilidades sendo adquiridas:
+> * Trabalho em equipe;
+> * Estudo de casos reais;
+> * Resolução de problemas reais em um projeto;
+> * Desenvolvimento web de acordo com o pedido do cliente;
 
-Participantes do projeto: 
-### [Ícaro Santos](https://github.com/FlightofIcarus)
-### Bruna 
-### Anderson Glay
+
+# Projeto desenvolvido por:
+> ### [Designer Experimental](https://github.com/designexperimental) 
+
+# Participantes do projeto: 
+> ### [Ícaro Santos](https://github.com/FlightofIcarus)
+> ### Bruna 
+> ### Anderson Glay
 
 # Skills sendo utilizadas e estudadas:
 
