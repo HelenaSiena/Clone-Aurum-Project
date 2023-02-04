@@ -1,0 +1,131 @@
+
+/*SEPARADOR MENU*/
+.separador { 
+    /*border-right: 1px solid #afafaf;*/
+    margin: 0 10px;
+}
+/*MENU TOPO*/
+.top-menu {
+    background-color: #222;
+    font-size: 12px;
+    padding: 10px 0;
+    color: #afafaf;
+}
+.top-menu a {
+    text-decoration: none;
+    color: #afafaf;
+}
+.top-menu a:hover { 
+    color: white;
+}
+.lista-menu-top ul{ 
+    display: flex;
+    list-style: none;
+}
+.lista-menu-top img{
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+/*MENU AURUM*/
+.menu { 
+    border-bottom: 1px solid #eee;
+    margin: 10px 10px;
+    font-weight: 300;
+}
+.logo-nav img{ 
+    width: 97px;
+    height: 20px;
+    margin: 15px 15px;
+}
+.menu-nav ul { 
+    display: flex;
+}
+.menu-nav ul li a { /**/
+    display: inline-block;
+    line-height: 70px;
+    padding: 0 25px 0 15px;
+}
+.menu-nav ul li a:hover{
+    background-color: #eee;
+	cursor: pointer;
+    border-bottom: 2px solid black;
+}
+.menu-nav ul li a { 
+    color: #4d4d4d;
+}
+.menu-nav a.active {  
+    border-bottom: 2px solid black; /*-> VERIFICAR PORQUE NÃO ESTÁ FICANDO ABAIXO DO HOME*/
+}
+.icons img { 
+    padding: 0 25px;
+}
+
+/*BANNER CENTRAL*/
+.banner-central{
+    margin: 25px 0 0;
+    height: 500px;
+    background-image: url("https://themes.laborator.co/aurum/fashion/wp-content/uploads/2014/11/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+}
+.banner-central .container {
+    /*border: 1px solid red;*/
+    height: 500px;
+}
+
+/*TRENDING*/
+.trending { 
+    margin-top: 50px;
+    padding: 0 15PX;
+}
+.trending h2 small { /*Edições texto*/
+    font-size: 1rem;
+    display: block;
+    margin-top: 8px;
+}
+.dash { 
+    display: inline-block;
+    width: 16px;
+    height: 2px;
+    background-color: #222;
+}
+
+/*SHOP LIST - AINDA DENTRO DA DIV TRENDING*/
+.shop-list{
+    margin-top: 40px;
+}
+.shop-list ul {
+    display: flex;
+    justify-content: space-between;
+}
+/*.shop-list ul li { 
+    border: 1px solid red;
+}*/
+.shop-item img { 
+    width: 263px;
+}
+
+/*INFORMAÇÕES DOS ITEMS*/
+.info-item {
+    padding: 2px 20px;
+}
+.info-item div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.info-item h3 { 
+    margin: 20px 0;
+    color: #222;
+    font-weight: 300;
+}
+.info-item a {
+    color: #222;
+}
+/*CATEGORY*/
+.category-product a { 
+    font-size: 13px;
+    color: #888;
+}
